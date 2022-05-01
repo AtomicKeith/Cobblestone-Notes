@@ -1,0 +1,96 @@
+{
+  "main": {
+    "id": "366c1dad8ba4f2c3",
+    "type": "split",
+    "children": [
+      {
+        "id": "ba5128097cde51a5",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Crops/Wheat.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "48d916c59f29c569",
+    "type": "split",
+    "children": [
+      {
+        "id": "7ca977fda023a7ab",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "beba715df027601b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "98b41083a62d15ba",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "183078e52c432b91",
+    "type": "split",
+    "children": [
+      {
+        "id": "1fd33992b60f52fe",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "419fffb114fc2d83",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Crops/Wheat.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "ba5128097cde51a5",
+  "lastOpenFiles": [
+    "Crops/Wheat.md",
+    "Crops/Compressed Wheat.md",
+    "Crops/Ultra-Compressed Wheat.md"
+  ]
+}

@@ -4,15 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ba5128097cde51a5",
+        "id": "0e6863f597b1ea29",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Crops/Wheat.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -69,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Crops/Wheat.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,10 +82,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "ba5128097cde51a5",
+  "active": "0e6863f597b1ea29",
   "lastOpenFiles": [
-    "Crops/Wheat.md",
-    "Crops/Compressed Wheat.md",
-    "Crops/Ultra-Compressed Wheat.md"
+    "Dimensions/The Barn/Tools/T1 Iron Hoe.md",
+    "Dimensions/The Barn/Tools/T5 Stone Hoe.md",
+    "Dimensions/The Barn/Tools/T4 Stone Hoe.md",
+    "Dimensions/The Barn/Tools/T3 Stone Hoe.md",
+    "Dimensions/The Barn/Tools/T2 Stone Hoe.md",
+    "Dimensions/The Barn/Tools/T1 Stone Hoe.md",
+    "Dimensions/The Barn/Tools/T5 Wooden Hoe.md",
+    "Dimensions/The Barn/NPCs/Wooden Hoes.md",
+    "Dimensions/The Barn/Tools/T4 Wooden Hoe.md",
+    "Dimensions/The Barn/Tools/T3 Wooden Hoe.md"
   ]
 }
